@@ -1,13 +1,13 @@
 :root {
     --text-color: #000000;
-    --card-front-color: #bb86ec;
-    --card-back-color: gf#8d4794;
+    --card-front-color: #ec86b0;
+    --card-back-color: gf#944761;
 }
 
 body {
      background: url ('img/bg-desktop.webp');
     font-family: Georgia, 'Times New Roman', Times, serif;
-    background-color: #e1c1ff;
+    background-color: #ffc1ea;
 
 }
 
@@ -79,13 +79,13 @@ body {
 
 .cartao__conteudo__resposta {
     transform: rotateY(180deg);
-    background-color: rgba(185, 106, 238, 0.767);
+    background-color: rgba(238, 106, 112, 0.767);
     border: 4px solid var(--card-back-color);
 }
 
 footer {
     background-color: black;
-    color: rgb(244, 188, 255);
+    color: rgb(255, 188, 205);
     position: fixed;
     bottom: 0;
     width: 100%;
